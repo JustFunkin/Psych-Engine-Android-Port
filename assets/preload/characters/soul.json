@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Evil Boyfriend Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SING UP Evil BoyFriend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SING LEFT Evil BoyFriend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SING RIGHT Evil Boyfriend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SING DOWN Evil BoyFriend",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil BF",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "soul",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
